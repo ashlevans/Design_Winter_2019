@@ -45,7 +45,7 @@ Throughout your Premium experience, you will access:
 
 ## Logistics
 
-- **Getting There:** 111 Sussex does offer paid underground parking but spaces are limited due to construction. Parking on side streets is limited and capped at three hour periods. We encourage you to travel by taxi or use the various public transport options available. For more information, visit the OC Transpo and Société de transport de l’Outaouais (STO) sites. 
+- **Getting There:** 111 Sussex does offer paid underground parking but spaces are limited due to construction. Parking on side streets is limited and capped at three hour periods. We encourage you to travel by taxi or use the various public transport options available. For more information, visit the [OC Transpo](http://www.octranspo.com/?from=splash) and [Société de transport de l’Outaouais (STO)](http://www.sto.ca) sites. 
 - **Security:** You must have your valid government ID card with you for entry into the building and at all times while onsite.
 - **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm (with full service options from 7:00am - 1:30pm).
 - **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
