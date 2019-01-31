@@ -34,7 +34,7 @@ Please note that participation for the entire duration of the course is mandator
 ## Preparatory Course Materials
 Preparatory materials and the upcoming class schedule will be made available two days prior to your upcoming class on Digital Academy Premium Design repository.
 
-While there are no required preparatory materials this week, you can get a head start by reading up on [RESOURCE from NOURHAN] and [RESOURCE from KSENIA].
+While there are no required preparatory materials this week, you can get a head start by reading up on the [Ontario Public Service’s user research guide (in alpha)](https://www.ontario.ca/page/user-research-guide) or [18F’s tips on capturing the best data from user interviews](https://18f.gsa.gov/2016/02/09/tips-for-capturing-the-best-data-from-user-interviews/).
 
 ## Online Tools & Platforms
 
