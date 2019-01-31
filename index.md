@@ -5,7 +5,7 @@
 
 You’ve been selected to participate in the first design cohorts of the **Canada School of Public Service Digital Academy – Premium pilot!**
 
-To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Tuesday, January 29!
+To get you started, we’ve created a [quick video](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be) to tell you a bit about your first Premium events. It all starts on Tuesday, February 26!
 
 [![IWindow looking into the Digital Academy's office space.](https://wiki.gccollab.ca/images/4/4e/DA_Intro_Video.png)](https://www.youtube.com/watch?v=DLtGwmEpO5k&feature=youtu.be)
 
@@ -45,7 +45,7 @@ Throughout your Premium experience, you will access:
 
 ## Logistics
 
-- **Getting There:** 111 Sussex does offer paid underground parking but spaces are limited due to construction. Parking on side streets is limited and capped at three hour periods. We encourage you to use the various public transport options available. For more information, visit the OC Transpo and  Société de transport de l’Outaouais (STO) sites. We generally recommend that participants request and bring taxi chits to get from their work location to 111 Sussex.
+- **Getting There:** 111 Sussex does offer paid underground parking but spaces are limited due to construction. Parking on side streets is limited and capped at three hour periods. We encourage you to travel by taxi or use the various public transport options available. For more information, visit the OC Transpo and Société de transport de l’Outaouais (STO) sites. 
 - **Security:** You must have your valid government ID card with you for entry into the building and at all times while onsite.
 - **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm (with full service options from 7:00am - 1:30pm).
 - **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
@@ -68,14 +68,13 @@ Keep up to date with Canada’s Digital Academy through:
 
 We have a few last questions before your Digital Academy experience begins:
  
-1. Will you be attending the Premium Networking Event on Tuesday, January 29? An Outlook invitation will be sent shortly. Please confirm your attendance by Friday, January 25.
+1. Will you be attending the Premium Networking Event on Tuesday, February 26? An Outlook invitation will be sent shortly. Please confirm your attendance by Wednesday, February 20.
 2. Fill out your [learner manual for me](https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx), a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
 3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, [please let us know by filling out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
-4. Please provide a photo of yourself - a headshot or a casual photo will do - to put a face to a name of other learners that much quicker.
-5. As learners of Premium’s first cohort, you’ll be receiving some fun gear. Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size.
-6. Do you have any allergies (food, environmental, other)?
+4. As learners of Premium’s first cohort, you’ll be receiving some fun gear. Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size.
+5. Do you have any allergies (food, environmental, other)?
 
-**Please send your learner manual, consent form, photo, and answers to the above by Friday, January 25 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
+**Please send your learner manual, consent form, and answers to the above by Wednesday, February 20 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
 
 Should you have any questions, please contact us at the Digital Academy.
  
