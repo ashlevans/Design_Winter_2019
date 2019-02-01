@@ -25,9 +25,18 @@ This will be a fun way to meet your fellow learners, sponsoring organizations, m
 
 Two days after the Networking & Launch Event, we will be pleased to welcome you to your first full-day of Digital Academy Premium. We will meet from 9:00am-4:00pm for an orientation and speakers in the morning and an in-class session to learn  in the afternoon.
 
-Following the first week, we will have lab hours or designated learning events from 9:00am-12:00pm and modules from 1:00-4:00pm. This will all take place at 111 Sussex Drive.
- 
-Please note that participation for the entire duration of the course is mandatory. At 4:00pm every Thursday, you will receive a short evaluation which will help improve the Premium experience for future cohorts. Your participation is managed through the completion of the weekly evaluation.
+## Subsequent Classes
+
+Following the first week, every Thursday, you will have:
+- 9:00am - 12:00pm: Lab hours or designated learning events 
+- 1:00 - 4:00pm: In-class training 
+This will all take place at 111 Sussex Drive.
+
+## Your Responsibilities
+
+Please note that **participation for the entire duration of the in-class training is mandatory**.
+
+At 4:00pm every Thursday, you will receive a short evaluation which will help improve the Premium experience for future cohorts. Your participation is managed through the completion of the weekly evaluation.
 
 # Useful Info
 
