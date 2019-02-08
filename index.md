@@ -71,13 +71,11 @@ Keep up to date with Canada’s Digital Academy through:
 
 We have a few last questions before your Digital Academy experience begins:
  
-1. Will you be attending the Premium Networking Event on Tuesday, February 26? An Outlook invitation will be sent shortly. Please confirm your attendance by Wednesday, February 20.
-2. Fill out your [learner manual for me](https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx), a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
-3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, [please let us know by filling out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
-4. As learners of Premium’s first cohort, you’ll be receiving some fun gear. Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size.
-5. Do you have any allergies (food, environmental, other)?
+1. Fill out your [learner manual for me](https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx), a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
+2. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, [please let us know by filling out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
+3. Do you have any allergies (food, environmental, other)?
 
-**Please send your learner manual, consent form, and answers to the above by Wednesday, February 20 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
+**Please send your learner manual, consent form, and advise us of any allergies by Wednesday, February 20 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
 
 Should you have any questions, please contact us at the Digital Academy.
  
@@ -130,46 +128,45 @@ Bien qu’il n’y ait pas de matériel de cours préparatoire cette semaine, vo
 ## Outils
 
 Tout au long de votre expérience Excellence, vous aurez accès à :
-- **Slack**, for chatting with your design cohort and fellow Premium learners. You will soon receive an invitation to the Digital Academy Slack channels.
-- **GitHub**, for course content, modules and scripts. [Create a GitHub account](https://github.com/) and get acquainted with [the Digital Academy Premium Design repository](https://github.com/CSPS-EFPC-DAAN/design-learners).
-- **Textit**, to improve your Premium experience. As part of the beta cohort, your insights on topics, content, course modules and overall experience will be highly valuable!
+- **Slack**, pour discuter avec vos collègues du programme de conception. Vous recevrez bientôt une invitation aux canaux Slack de l’Académie du numérique.
+- **GitHub**, pour le contenu des cours, les modules et les scripts. [Créez un compte GitHub]((https://github.com/) et familiarisez-vous avec le [répertoire Excellence de l’Académie du numérique](https://github.com/CSPS-EFPC-DAAN/design-learners).
+- **Textit**, pour améliorer votre expérience Excellence. C’est le lancement d’Excellence : vos idées sur les sujets, le contenu, les modules de cours sont très précieuses!
 
 ## Logistics
 
-- **Getting There:** 111 Sussex does offer paid underground parking but spaces are limited due to construction. Parking on side streets is limited and capped at three hour periods. We encourage you to travel by taxi or use the various public transport options available. For more information, visit the [OC Transpo](http://www.octranspo.com/?from=splash) and [Société de transport de l’Outaouais (STO)](http://www.sto.ca) sites. 
-- **Security:** You must have your valid government ID card with you for entry into the building and at all times while onsite.
-- **Food Services**: A cafeteria is available on site. It is open daily from 7:00 am to 3:00 pm (with full service options from 7:00am - 1:30pm).
-- **Dress Code**: Casual. Bring a sweater or jacket to ensure your comfort.
-- **Allergies**: Some participants attending the course may suffer from environmental sensitivities. Please refrain from using fragranced products for the duration of the course.
-- **Accommodations**: Please contact us at <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca> 
-if you require special accommodation.
+- **Directions:** Le 111, promenade Sussex offre un stationnement souterrain payant, mais le nombre de places y est limité en raison de travaux de construction. Les places de stationnement dans les rues avoisinantes sont limitées et vous ne pouvez pas y rester pendant plus de trois heures successives. Nous vous encourageons à faire appel à un taxi ou à utiliser les divers moyens de transport public offerts. Pour obtenir de plus amples renseignements, visitez les sites d’[OC Transpo](http://www.octranspo.com/?from=splash) et de la [Société de transport de l’Outaouais (STO)](http://www.sto.ca).
+- **Sécurité:** Vous devez avoir votre carte d’identité valide du gouvernement pour entrer dans l’édifice et la porter en permanence sur vous pendant que vous êtes sur place.
+- **Services alimentaires**: Une cafétéria se trouve sur place. Elle est ouverte tous les jours de 7 h à 15 h (avec options de service complet de 7 h à 13 h 30).
+- **Code vestimentaire**: Décontracté. Apportez un chandail ou une veste pour plus de confort.
+- **Allergies**: Certains participants peuvent souffrir d’hypersensibilité environnementale, veuillez par conséquent vous abstenir d’utiliser des produits parfumés pendant toute la durée du cours.
+- **Hébergement**: Veuillez contacter <csps.premiumdigitalacademy-excelenceacademiedunumerique.efpc@canada.ca> si vous avez besoin d’accommodements.
 
-# Stay in Touch
+# Restez en contact
 
-Keep up to date with Canada’s Digital Academy through:
-- [Our Mailing List](http://eepurl.com/dKe2co)
+Tenez-vous au courant de l’évolution de l’Académie du numérique du Canada par l’intermédiaire de :
+- [Our Mailing List](http://eepurl.com/dKe3a6)
 - [GCcollab](https://gccollab.ca/groups/profile/1316691/endigital-academyfracadu00e9mie-du-numu00e9rique)
 - [Twitter](https://twitter.com/DigiAcademyCAN)
 - [LinkedIn](https://www.linkedin.com/company/csps-digiacademy-acadenum-efpc/)
-- [Bus Rides](https://en.busrides-trajetsenbus.ca/), Digital Academy’s engagement platform (in development)
+- [Trajets en bus](https://en.busrides-trajetsenbus.ca/), plateforme d’engagement de l’Académie du numérique (en développement)
 
 *************************
 
-# For Your Action
+# Mesures à prendre
 
-We have a few last questions before your Digital Academy experience begins:
- 
-1. Will you be attending the Premium Networking Event on Tuesday, February 26? An Outlook invitation will be sent shortly. Please confirm your attendance by Wednesday, February 20.
-2. Fill out your [learner manual for me](https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx), a guide for your professors and other learners to understand how you like to learn and work. The manuals will be shown at the Networking event on January 29th and will be available online by the first day of class.
-3. We will be taking photos and videos throughout the Premium experience. Some photos may be used for social media purposes. If this works for you, [please let us know by filling out this consent form](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
-4. As learners of Premium’s first cohort, you’ll be receiving some fun gear. Please specify whether you’d like a [men’s](https://www.mygildan.com/store/product/adult-full-zip-hooded-sweatshirt/18600) or [women’s](https://www.mygildan.com/store/au/browse/productDetailsPage.jsp?productId=18600FL) sweater and in which size.
-5. Do you have any allergies (food, environmental, other)?
+Nous avons quelques dernières questions à vous poser avant le début de votre expérience Excellence :
+
+1. Complétez votre [manuel de l’apprenant pour moi]((https://wiki.gccollab.ca/File:Learner_Profile_Template_-_Manuel_de_l%27utilisateur.docx)), un guide pour aider vos enseignants et les autres apprenants à comprendre comment vous préférez apprendre et travailler.
+2. Nous prendrons des photos et des vidéos pendant l’expérience Excellence. Certaines photos pourront être utilisées pour les médias sociaux. Si vous y consentez, [veuillez nous le faire savoir en remplissant ce formulaire de consentement](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
+3. Avez-vous des allergies (alimentaires, environnementales ou autres)?
 
 **Please send your learner manual, consent form, and answers to the above by Wednesday, February 20 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
 
-Should you have any questions, please contact us at the Digital Academy.
- 
-Thank you for participating in the beta cohort of the CSPS Digital Academy - Premium! We look forward to meeting you soon.
+Veuillez m’envoyer votre manuel de l’apprenant, le formulaire de consentement, et nous aviser de toute allergie par le mercredi 20 février à <csps.premiumdigitalacademy-excellenceacademiedunumerique.efpc@canada.ca>.
+
+Si vous avez des questions, n’hésitez pas à communiquer avec nous à l’Académie du numérique.
+
+Merci d’avoir choisi l’École de la fonction publique du Canada! Nous nous réjouissons de vous rencontrer prochainement.
 
 ![Black and white image of a top-down view of a person typing on a laptop. The words "Thank you!" overlays the image.](https://wiki.gccollab.ca/images/c/cd/DA_window_4.jpg)
 
