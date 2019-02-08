@@ -118,9 +118,9 @@ Veuillez prendre note qu’il est **obligatoire de participer à l’ensemble de
 
 Tous les jeudis à 16 h, vous recevrez une courte évaluation qui vous permettra d’améliorer l’expérience Excellence des prochains groupes : votre participation sera gérée par le biais de l’évaluation hebdomadaire.
 
-# Matériel de cours préparatoire
+# Informations utiles
 
-## Preparatory Course Materials
+## Matériel de cours préparatoire
 
 Le matériel de cours préparatoire et l’horaire des prochains cours seront disponibles deux jours avant le début de votre prochain cours sur le répertoire du programme supérieur de design de l’Académie du numérique.
 Bien qu’il n’y ait pas de matériel de cours préparatoire cette semaine, vous pouvez prendre une longueur d’avance en lisant le Guide sur la recherche des utilisateurs (dans alpha) de la fonction publique de l’Ontarioou les conseils pour recueillir les meilleures données des entretiens avec les utilisateurs de 18F.
@@ -144,7 +144,7 @@ Tout au long de votre expérience Excellence, vous aurez accès à :
 # Restez en contact
 
 Tenez-vous au courant de l’évolution de l’Académie du numérique du Canada par l’intermédiaire de :
-- [Our Mailing List](http://eepurl.com/dKe3a6)
+- [Notre liste de diffusion](http://eepurl.com/dKe3a6)
 - [GCcollab](https://gccollab.ca/groups/profile/1316691/endigital-academyfracadu00e9mie-du-numu00e9rique)
 - [Twitter](https://twitter.com/DigiAcademyCAN)
 - [LinkedIn](https://www.linkedin.com/company/csps-digiacademy-acadenum-efpc/)
@@ -160,9 +160,7 @@ Nous avons quelques dernières questions à vous poser avant le début de votre 
 2. Nous prendrons des photos et des vidéos pendant l’expérience Excellence. Certaines photos pourront être utilisées pour les médias sociaux. Si vous y consentez, [veuillez nous le faire savoir en remplissant ce formulaire de consentement](https://wiki.gccollab.ca/File:Consent_Form_-_Formulaire_de_consentement.pdf).
 3. Avez-vous des allergies (alimentaires, environnementales ou autres)?
 
-**Please send your learner manual, consent form, and answers to the above by Wednesday, February 20 to <csps.premiumdigitalacademy-excelenceacademiquedunumerique.efpc@canada.ca>.**
-
-Veuillez m’envoyer votre manuel de l’apprenant, le formulaire de consentement, et nous aviser de toute allergie par le mercredi 20 février à <csps.premiumdigitalacademy-excellenceacademiedunumerique.efpc@canada.ca>.
+**Veuillez m’envoyer votre manuel de l’apprenant, le formulaire de consentement, et nous aviser de toute allergie par le mercredi 20 février à <csps.premiumdigitalacademy-excellenceacademiedunumerique.efpc@canada.ca>.**
 
 Si vous avez des questions, n’hésitez pas à communiquer avec nous à l’Académie du numérique.
 
