@@ -39,9 +39,9 @@ Preparatory materials and the upcoming class schedule will be made available two
 
 While there are no required preparatory materials this week, you can get a head start by reading up:
 
-- **[Design Thinking Comes of Age]**(https://hbr.org/2015/09/design-thinking-comes-of-age), a piece from Harvard Business Review outlining design-centric culture and practices
-- **[Government of Canada Digital Operations Strategic Plan (Introduction & Chapter 1)]**(https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC4), which demonstrates how technology and technological change is managed in the GC.
-- **[Government of Canada Digital Standards]**(https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html), which form the foundation of the government’s shift to becoming more agile, open, and user-focused. 
+- **[Design Thinking Comes of Age](https://hbr.org/2015/09/design-thinking-comes-of-age)**, a piece from Harvard Business Review outlining design-centric culture and practices
+- **[Government of Canada Digital Operations Strategic Plan (Introduction & Chapter 1)](https://www.canada.ca/en/government/system/digital-government/digital-operations-strategic-plan-2018-2022.html#ToC4)**, which demonstrates how technology and technological change is managed in the GC.
+- **[Government of Canada Digital Standards](https://www.canada.ca/en/government/publicservice/modernizing/government-canada-digital-standards.html)**, which form the foundation of the government’s shift to becoming more agile, open, and user-focused. 
 
 ## Online Tools & Platforms
 
