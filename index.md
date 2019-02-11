@@ -35,7 +35,7 @@ At 4:00pm every Thursday, you will receive a short evaluation which will help im
 
 ## Preparatory Course Materials
 
-Preparatory materials and the upcoming class schedule will be made available two days prior to your upcoming class on Digital Academy Premium Design repository.
+Preparatory materials and the upcoming class schedule will be made available two days prior to your upcoming class on [Digital Academy Premium Design repository](https://github.com/CSPS-EFPC-DAAN/Design).
 
 While there are no required preparatory materials this week, you can get a head start by reading up:
 
@@ -126,7 +126,7 @@ Tous les jeudis à 16 h, vous recevrez une courte évaluation qui vous permettra
 
 ## Matériel de cours préparatoire
 
-Le matériel de cours préparatoire et l’horaire des prochains cours seront disponibles deux jours avant le début de votre prochain cours sur le répertoire du programme supérieur de design de l’Académie du numérique.
+Le matériel de cours préparatoire et l’horaire des prochains cours seront disponibles deux jours avant le début de votre prochain cours sur [le répertoire du programme supérieur de design de l’Académie du numérique](https://github.com/CSPS-EFPC-DAAN/Design).
 
 Bien qu’il n’y ait pas de matériel de cours préparatoire cette semaine, vous pouvez prendre une longueur d’avance en lisant ce qui suit :
 
